@@ -1,0 +1,31 @@
+body {
+background-color: #F8ECC2;
+}
+hr {
+border-color: #000000;
+}
+.header, .mainArea {
+	font-family: Arial;
+}
+#name {
+	float: left;
+}
+.skillsList, #ContactInfo, ul {
+	list-style-type: none;
+}
+#contactInfo {
+	float: right;
+	color: #708090;
+}
+.clear {
+	clear: both;
+}
+#location, #duration {
+	font-style: italic;
+}
+#location {
+	float: left
+}
+#duration {
+	float: right;
+}
